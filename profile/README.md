@@ -2,8 +2,7 @@
 - _Raidho 라이도 란? 고대 룬어로, 여행을 뜻함_
 
 ## Service Info
-- 📌 여행하고 싶은 사람들이 이용하는 공간으로, 함께 여행하고 싶은 사람을 모집하고, 경험을 공유하는 웹 서비스
-- 📌 자전거, 오토바이 등 같은 취미를 가지고 있는 사람을 구하기 어려운 여행을 쉽게 모집할 수 있도록 도와주는 서비스
+- 📌 여행하고 싶은 사람, 여행을 좋아하는 사람들이 이용하는 공간으로, 함께 여행하고 싶은 사람을 모집하고, 여행 경험을 공유하는 웹 서비스
 
 -----
 
@@ -29,6 +28,12 @@
 <p>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
 </p>
   
 -----
