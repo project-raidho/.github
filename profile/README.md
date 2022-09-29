@@ -1,7 +1,7 @@
 <img src="https://github.com/project-raidho/raidho_FE/blob/yoojin/src/assets/banner/raidhoIntro.png?raw=true" width="900">
-- _Raidho 라이도 란? 고대 룬어로, 여행을 뜻함_
 
 ## 서비스 정보
+- 📌 _Raidho 라이도 란? 고대 룬어로, 여행을 뜻함_
 - 📌 전 세계 어디든 다양한 여행, 만남의 중심 라이도
 - 📌 여행하고 싶은 사람들, 여행을 좋아하는 사람들이 이용하는 공간으로, 함께 여행하고 싶은 사람을 모집하고, 여행 경험을 공유하는 웹 커뮤니티 서비스
 - 📌 일반적인 여행 뿐 아니라 태그 기능을 이용하여 자전거, 오토바이 등 특정 여행을 갈 사람들만 모집해 볼수있는 서비스
