@@ -73,5 +73,3 @@
 | UX/UI | 강예진 |  | ENFP |
 
 -----
-
-## Project Progress
