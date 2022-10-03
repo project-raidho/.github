@@ -58,7 +58,7 @@
 -----
 
 ## 🌏 아키텍처
-<img src=“https://github.com/project-raidho/raidho_FE/blob/yoojin/docs/tech.png?raw=true” width=“900">
+<img src="https://github.com/project-raidho/raidho_FE/blob/yoojin/docs/tech.png?raw=true" width="900">
 
 -----
 
